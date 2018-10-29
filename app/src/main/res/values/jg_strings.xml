@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="jg_retry">Retry</string>
+    <string name="jg_empty">No data</string>
+    <string name="jg_error_generic">An error has occurred. Please retry.</string>
+</resources>

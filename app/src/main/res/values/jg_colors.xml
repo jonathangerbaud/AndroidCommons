@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Material colors-->
+    <color name="material_black_100">#FF000000</color>
+    <color name="material_black_87">#DE000000</color>
+    <color name="material_black_54">#8A000000</color>
+    <color name="material_black_50">#80000000</color>
+    <color name="material_black_38">#61000000</color>
+    <color name="material_black_12">#1F000000</color>
+
+    <color name="material_white_100">#FFFFFFFF</color>
+    <color name="material_white_87">#DEFFFFFF</color>
+    <color name="material_white_54">#8AFFFFFF</color>
+    <color name="material_white_50">#80FFFFFF</color>
+    <color name="material_white_38">#61FFFFFF</color>
+    <color name="material_white_12">#1FFFFFFF</color>
+
+    <color name="inactive_dark">#ff9E9E9E</color>
+    <color name="active_dark">#ff757575</color>
+
+    <color name="material_dark_text_primary">@color/material_black_87</color>
+    <color name="material_dark_text_secondary">@color/material_black_54</color>
+    <color name="material_dark_text_disabled">@color/material_black_38</color>
+    <color name="material_dark_text_hint">@color/material_black_38</color>
+    <color name="material_dark_icon_active">@color/material_black_54</color>
+    <color name="material_dark_icon_inactive">@color/material_black_38</color>
+    <color name="material_dark_divider">@color/material_black_12</color>
+
+    <color name="material_light_text_primary">@color/material_white_87</color>
+    <color name="material_light_text_secondary">@color/material_white_54</color>
+    <color name="material_light_text_disabled">@color/material_white_38</color>
+    <color name="material_light_text_hint">@color/material_white_38</color>
+    <color name="material_light_icon_active">@color/material_white_100</color>
+    <color name="material_light_icon_inactive">@color/material_white_50</color>
+    <color name="material_light_divider">@color/material_white_12</color>
+</resources>
